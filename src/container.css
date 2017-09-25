@@ -1,0 +1,39 @@
+fieldset
+{
+    margin:62px 100px;
+    background-color: white;
+    border:none;
+}
+#Outer{
+    background-color:whitesmoke;
+}
+h2{
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+}
+.TimeReport
+{
+float:Right;
+}
+.first
+{
+    margin: 10px;
+}
+.Second
+{
+    margin:10px;
+}
+
+
+a{
+    text-decoration: underline;
+    color:dodgerblue;
+}
+#borders
+{
+    border-bottom:1px solid lightslategray;
+}
+#lines
+{
+    border-bottom:1px solid lightslategray;
+}

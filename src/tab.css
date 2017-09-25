@@ -1,0 +1,16 @@
+.b{
+    width:9%;
+    margin:10px;
+    border-left:2px inset slategray;
+     border-bottom:2px inset slategray;
+      border-right:1px solid slategray;
+       border-top:1px solid slategray;
+    
+}
+.b:hover{
+    border-color: green;
+}
+.b:click
+{
+     border-color: green;
+}

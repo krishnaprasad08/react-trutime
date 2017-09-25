@@ -1,0 +1,45 @@
+#heading{
+    border-bottom: 1px solid lightslategray;
+    color:rgb(68, 101, 144);
+    margin:0px;
+    font-style:sans-serif;
+   
+}
+h2{
+    color:rgb(68,101,144);
+    margin:0px;
+    font-style:sans-serif;
+    
+}
+#Addbutton{
+    display:inline-block;
+    padding-right:190px;
+    margin-top:5px; font-style:sans-serif;
+    
+}
+#ADD{
+    background-color:#E9CCB0;
+    
+    border-style: solid ;
+    border-color: #E2B58B;
+    margin-right: 3px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-of-child(even) {
+    background-color: #dddddd;
+}
+.timereport
+{
+    width: 70%;
+}

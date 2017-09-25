@@ -1,0 +1,16 @@
+button
+{
+background-color:#1e90ff ;
+color:white;
+font-size:13px;
+border:30px;
+padding:12px ;
+width:25%;
+border-radius: 5px ;
+font-family:Verdana;	
+margin-left:5px 0px;
+margin-top:7px;	
+cursor:pointer;
+height:40px		;
+
+} 

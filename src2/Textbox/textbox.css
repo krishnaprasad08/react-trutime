@@ -1,0 +1,23 @@
+input[type=password] 
+{
+
+border-radius: 4px;
+padding: 8px;
+margin:3px 0px 10px;
+width: 70%;
+height: 26px;
+border:1px solid lightgrey;
+font-size: 17px ;  
+}
+
+
+input[type=text] 
+{
+border-radius: 4px;
+padding: 8px;
+margin:3px 0px 13px;
+width: 70%;
+height: 26px;
+border:1px solid lightgrey;
+font-size: 17px ;
+}

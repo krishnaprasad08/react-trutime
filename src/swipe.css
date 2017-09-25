@@ -1,0 +1,36 @@
+.lefts
+{
+   
+    padding:10px 10px 10px 8px;
+  
+  display:inline-block;
+  width:50%;
+  clear:both;
+  background-color: whitesmoke;
+  border-right:2px inset lightslategray;
+    
+}
+.Rights
+{
+    width:45%;
+ padding-left:0px;
+ float:right;
+   
+}
+.TopUp1
+{
+float:right;
+}
+.part2
+{
+padding:10px 15px 20px 0px;
+font-size:14px;
+}
+.borderline
+{
+    border-bottom: 1px inset lightslategray;
+}
+#swipes
+{
+    
+}
